@@ -1,5 +1,3 @@
-# All Lessons
-
 ## Product Development
   * **How to Find a Meaningful Problem to Solve**
     * [Solve a Problem You Care About](/product_development/solve_a_problem_you_care_about.md "Solve a Problem You Care About")
