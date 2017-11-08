@@ -10,6 +10,6 @@ Below, you'll find the content for the four day workshop organized by day. Each 
   * [**Day Four**](/workshop_timelines/day_four_timeline.md "Day Four Timeline")
 
 ## Other Resources
-  * [**All Lessons**](/all_lessons.md "All Lessons")
+  * [**Full Lesson List by Topic**](/all_lessons.md "All Lessons")
   * [**CodeNow Sample Todo Application - Front End Mockup Codebase**](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
   * [**CodeNow Sample Todo Application - Back End Mockup Codebase**](https://github.com/CodeNowOrg/todo_app_back_end "CodeNow Sample Todo Application - Back End Mockup Codebase")
