@@ -11,5 +11,5 @@ Below, you'll find the content for the four day workshop organized by day. Each 
 
 ## Other Resources
   * [**All Lessons Organized by Topic**](/all_lessons.md "All Lessons")
-  * [**CodeNow Sample Todo Application - Front End Mockup Codebase**](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
-  * [**CodeNow Sample Todo Application - Back End Mockup Codebase**](https://github.com/CodeNowOrg/todo_app_back_end "CodeNow Sample Todo Application - Back End Mockup Codebase")
+  * [**Front End Example Codebase - CodeNow To-Do Application**](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
+  * [**Back End Example Codebase - CodeNow To-Do Application**](https://github.com/CodeNowOrg/todo_app_back_end "CodeNow Sample Todo Application - Back End Mockup Codebase")
