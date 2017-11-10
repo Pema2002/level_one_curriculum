@@ -1,7 +1,6 @@
 # Day Two Timeline
 **9:00 - 9:30 - Welcome & Introduction**
-  * Day Two High-Level Summary
-  * Ice Breaker Activity
+  * Introduction & Announcements
 
 **9:30 - 10:00 - P1**
   * [Different Tags for Different Content](/front_end_development/different_tags_for_different_content.md "Different Tags for Different Content")
